@@ -1,6 +1,6 @@
 <?php
 
-namespace Equip\Adr;
+namespace Minormous\Adr;
 
 interface DomainInterface
 {

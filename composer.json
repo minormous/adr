@@ -1,12 +1,12 @@
 {
-    "name": "equip/adr",
+    "name": "minormous/adr",
     "description": "Interfaces for Action Domain Responder pattern",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "Equip Contributors",
-            "homepage": "https://github.com/equip"
+            "name": "Minormous Contributors",
+            "homepage": "https://github.com/minormous"
         }
     ],
     "replaces": {
@@ -17,7 +17,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Equip\\Adr\\": "src/"
+            "Minormous\\Adr\\": "src/"
         }
     }
 }

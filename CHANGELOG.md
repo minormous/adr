@@ -21,4 +21,4 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 ## 1.0.0 - 2016-01-05
 
 - Initial release
-- Changed from `Spark` to `Equip` namespace
+- Changed from `Spark` to `Minormous` namespace

@@ -1,13 +1,13 @@
 <?php
 
-namespace Equip\Adr;
+namespace Minormous\Adr;
 
 interface PayloadInterface extends Status
 {
     /**
      * Create a copy of the payload with the status.
      *
-     * @see \Equip\Adr\Status
+     * @see \Minormous\Adr\Status
      *
      * @param string $status
      *
@@ -18,7 +18,7 @@ interface PayloadInterface extends Status
     /**
      * Get the status of the payload.
      *
-     * @see \Equip\Adr\Status
+     * @see \Minormous\Adr\Status
      *
      * @return string
      */

@@ -1,6 +1,6 @@
 <?php
 
-namespace Equip\Adr;
+namespace Minormous\Adr;
 
 use Psr\Http\Message\ServerRequestInterface;
 
